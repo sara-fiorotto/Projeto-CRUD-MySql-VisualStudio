@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTesteZatec", "ProjetoTesteZatec\ProjetoTesteZatec.csproj", "{C06FA252-8DBA-4463-B71B-ED62DF4FA0B2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCliente", "SetupCliente\SetupCliente.vdproj", "{8A21DB92-F221-4D0F-93FD-AD76CFCD32E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06FA252-8DBA-4463-B71B-ED62DF4FA0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06FA252-8DBA-4463-B71B-ED62DF4FA0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06FA252-8DBA-4463-B71B-ED62DF4FA0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06FA252-8DBA-4463-B71B-ED62DF4FA0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A21DB92-F221-4D0F-93FD-AD76CFCD32E1}.Debug|Any CPU.ActiveCfg = Debug
+		{8A21DB92-F221-4D0F-93FD-AD76CFCD32E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1373FCB9-67AC-40C4-A459-9B76464D2220}
+	EndGlobalSection
+EndGlobal
